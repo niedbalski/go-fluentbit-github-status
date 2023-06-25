@@ -2,7 +2,7 @@
 
 This is an example plugin used to showcase how to create a simple Golang input plugin for [Fluent Bit](https://fluentbit.io).
 
-The article for this experiment can be found [here](https://niedbalski.dev/posts/writing-golang-fluent-bit-input-plugins/)
+The article can be found here: [https://niedbalski.dev/posts/writing-golang-fluent-bit-input-plugins/](https://niedbalski.dev/posts/writing-golang-fluent-bit-input-plugins/)
 
 ## Configuration
 
